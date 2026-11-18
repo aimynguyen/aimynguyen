@@ -35,3 +35,8 @@ hobby: sleep, matcha, rice paper, calvin chin, hotdog, bank me where, srdtyhujun
 </a>
 
 </div>
+## 🌸 Contributions
+
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/pink.svg" alt="Lịch đóng góp GitHub 3D của aimynguyen" />
+</div>
