@@ -47,9 +47,6 @@ motto: "If it works, make it pretty. If it breaks, blame the backend."
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[OCS - Old Clothes Store](https://github.com/karasuma-2401/OCS_FE)** | Sustainable fashion consignment platform & Web POS with real-time barcode scanning and dynamic VietQR payment | `React 19` `Vite` `Tailwind CSS v4` `ASP.NET Core` |
-| **Aimie Flashcards** | Anki-inspired flashcard vocabulary study app with interactive flip cards and Supabase cloud sync | `React` `Vite` `Tailwind CSS` `Supabase` |
-| **Laraumuong (Agrimarket)** | Specialized agricultural e-commerce platform connecting farmers & buyers with smart price suggestions | `Next.js` `React` `Tailwind CSS` `Node.js` |
-| **Personal Website & Blog** | Aesthetic developer portfolio and tech blog showcasing interactive UI components & project journeys | `React` `TypeScript` `Vite` `Tailwind CSS` |
 
 ---
 
