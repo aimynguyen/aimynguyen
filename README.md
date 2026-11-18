@@ -14,7 +14,8 @@
 ## 🎀 About me
 
 ```yaml
-
+major: Software Engineer
+hobby: sleep, matcha, rice paper, calvin chin, hotdog, bank me where, srdtyhujunmo,
 ```
 
 ## 💻 Tech stack
