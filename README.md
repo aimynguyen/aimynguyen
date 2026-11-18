@@ -1,21 +1,39 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngaimyyyyy) 
+# 🌸 Ai My Nguyen
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aimynguyen&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aimynguyen&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aimynguyen&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=380&amp;lines=Hello%2C+I%27m+Ai+My%21;Welcome+to+my+GitHub" alt="Hello, I'm Ai My! Welcome to my GitHub." />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aimynguyen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub profile](https://img.shields.io/badge/GitHub-aimynguyen-9D174D?style=flat-square&logo=github&logoColor=FCE7F3)](https://github.com/aimynguyen)
+[![Explore repositories](https://img.shields.io/badge/Explore-Repositories-BE185D?style=flat-square)](https://github.com/aimynguyen?tab=repositories)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aimynguyen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aimynguyen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎀 About me
+
+```yaml
+github: aimynguyen
+languages: [C++, C#, JavaScript, TypeScript]
+web: [CSS3, Vite, Firebase]
+design: Figma
+```
+
+## 💻 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,css,vite,firebase,figma&amp;perline=4" alt="C++, C#, JavaScript, TypeScript, CSS3, Vite, Firebase, and Figma" />
+
+</div>
+
+## 💗 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/aimynguyen">
+  <img src="https://streak-stats.demolab.com?user=aimynguyen&amp;hide_border=true&amp;background=24121E&amp;ring=F472B6&amp;fire=FB7185&amp;currStreakNum=FCE7F3&amp;currStreakLabel=F9A8D4&amp;sideNums=FCE7F3&amp;sideLabels=F9A8D4&amp;dates=E7B6D0&amp;stroke=6D284B" alt="GitHub contribution streak for aimynguyen" />
+</a>
+
+</div>
