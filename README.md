@@ -2,7 +2,7 @@
 
 # 🌸 Ai My Nguyen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=380&amp;lines=Hello%2C+I%27m+Ai+My%21;Welcome+to+my+GitHub" alt="Hello, I'm Ai My! Welcome to my GitHub." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;width=380&amp;lines=Hello%2C+I%27m+Ai+My%21;Welcome+to+my+GitHub" alt="Hello, I'm Aimie! Welcome to my GitHub." />
 
 [![GitHub profile](https://img.shields.io/badge/GitHub-aimynguyen-9D174D?style=flat-square&logo=github&logoColor=FCE7F3)](https://github.com/aimynguyen)
 [![Explore repositories](https://img.shields.io/badge/Explore-Repositories-BE185D?style=flat-square)](https://github.com/aimynguyen?tab=repositories)
@@ -14,10 +14,7 @@
 ## 🎀 About me
 
 ```yaml
-github: aimynguyen
-languages: [C++, C#, JavaScript, TypeScript]
-web: [CSS3, Vite, Firebase]
-design: Figma
+
 ```
 
 ## 💻 Tech stack
