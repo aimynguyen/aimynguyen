@@ -1,19 +1,19 @@
 [
   {
     "type": "normal",
-    "fileName": "pink.svg",
-    "backgroundColor": "#190F17",
-    "foregroundColor": "#FCE7F3",
-    "strongColor": "#F472B6",
-    "weakColor": "#C4A0B4",
-    "radarColor": "#FB7185",
+    "fileName": "matcha.svg",
+    "backgroundColor": "#131C18",
+    "foregroundColor": "#ECFDF5",
+    "strongColor": "#6EE7B7",
+    "weakColor": "#86EFAC",
+    "radarColor": "#34D399",
     "growingAnimation": true,
     "contribColors": [
-      "#2D1B29",
-      "#831843",
-      "#BE185D",
-      "#EC4899",
-      "#FBCFE8"
+      "#1A2E25",
+      "#064E3B",
+      "#047857",
+      "#10B981",
+      "#6EE7B7"
     ]
   }
 ]
