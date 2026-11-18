@@ -4,9 +4,9 @@
     "fileName": "pink.svg",
     "backgroundColor": "#190F17",
     "foregroundColor": "#FCE7F3",
-    "strongColor": "#F9A8D4",
+    "strongColor": "#F472B6",
     "weakColor": "#C4A0B4",
-    "radarColor": "#F472B6",
+    "radarColor": "#FB7185",
     "growingAnimation": true,
     "contribColors": [
       "#2D1B29",

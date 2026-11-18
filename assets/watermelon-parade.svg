@@ -1,0 +1,147 @@
+<svg viewBox="0 0 800 96" width="100%" height="96" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <style>
+    .parade {
+      animation: march 18s steps(360) infinite;
+    }
+    .hop-1 {
+      animation: pixelHop 0.4s steps(2, end) infinite;
+    }
+    .hop-2 {
+      animation: pixelHop 0.4s steps(2, end) 0.1s infinite;
+    }
+    .hop-3 {
+      animation: pixelHop 0.4s steps(2, end) 0.2s infinite;
+    }
+    .hop-4 {
+      animation: pixelHop 0.4s steps(2, end) 0.3s infinite;
+    }
+    .legs-a {
+      animation: toggleA 0.4s steps(1, end) infinite;
+    }
+    .legs-b {
+      animation: toggleB 0.4s steps(1, end) infinite;
+    }
+    .chat-1 {
+      animation: showChat1 4s steps(1, end) infinite;
+    }
+    .chat-2 {
+      animation: showChat2 4s steps(1, end) infinite;
+    }
+    @keyframes march {
+      0% { transform: translateX(820px); }
+      100% { transform: translateX(-340px); }
+    }
+    @keyframes pixelHop {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-3px); }
+      100% { transform: translateY(0px); }
+    }
+    @keyframes toggleA {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes toggleB {
+      0%, 49% { opacity: 0; }
+      50%, 100% { opacity: 1; }
+    }
+    @keyframes showChat1 {
+      0%, 10%, 85%, 100% { opacity: 0; }
+      15%, 75% { opacity: 1; }
+    }
+    @keyframes showChat2 {
+      0%, 35%, 95%, 100% { opacity: 0; }
+      40%, 90% { opacity: 1; }
+    }
+    .pixel-text-pink {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #F472B6;
+      letter-spacing: 0.5px;
+    }
+    .pixel-text-mint {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #86EFAC;
+      letter-spacing: 0.5px;
+    }
+  </style>
+
+  <!-- 8-bit Pixel Ground Line (Pastel theme) -->
+  <rect x="40" y="84" width="720" height="2" fill="#2E1C2B" />
+  <rect x="80" y="88" width="12" height="2" fill="#FB7185" opacity="0.5" />
+  <rect x="240" y="88" width="8" height="2" fill="#86EFAC" opacity="0.5" />
+  <rect x="420" y="88" width="14" height="2" fill="#F472B6" opacity="0.5" />
+  <rect x="610" y="88" width="10" height="2" fill="#4ADE80" opacity="0.5" />
+
+  <defs>
+    <!-- Kawaii Pixel Watermelon Slice Sprite -->
+    <g id="pixel-watermelon">
+      <path fill="#1A0B14" d="M7,0 h1 v1 h-1 z M10,0 h1 v1 h-1 z M6,1 h1 v1 h-1 z M11,1 h1 v1 h-1 z M5,2 h1 v1 h-1 z M12,2 h1 v1 h-1 z M4,3 h1 v1 h-1 z M13,3 h1 v1 h-1 z M3,4 h1 v1 h-1 z M6,4 h2 v1 h-2 z M10,4 h1 v1 h-1 z M14,4 h1 v1 h-1 z M3,5 h1 v1 h-1 z M6,5 h1 v1 h-1 z M11,5 h1 v1 h-1 z M15,5 h1 v1 h-1 z M2,6 h1 v1 h-1 z M7,6 h1 v1 h-1 z M9,6 h1 v1 h-1 z M15,6 h1 v1 h-1 z M2,7 h1 v1 h-1 z M14,7 h1 v1 h-1 z M1,8 h1 v1 h-1 z M15,8 h1 v1 h-1 z M1,9 h1 v1 h-1 z M1,10 h1 v1 h-1 z M2,11 h1 v1 h-1 z M14,11 h1 v1 h-1 z" />
+      <path fill="#22C55E" d="M8,0 h2 v1 h-2 z M2,10 h13 v1 h-13 z" />
+      <path fill="#FDA4AF" d="M7,1 h1 v1 h-1 z M6,2 h1 v1 h-1 z M5,3 h1 v1 h-1 z M4,4 h1 v1 h-1 z M4,5 h1 v1 h-1 z M3,6 h1 v1 h-1 z M3,7 h1 v1 h-1 z M2,8 h1 v1 h-1 z" />
+      <path fill="#FB7185" d="M8,1 h2 v1 h-2 z M7,2 h2 v1 h-2 z M10,2 h1 v1 h-1 z M6,3 h6 v1 h-6 z M5,4 h1 v1 h-1 z M8,4 h2 v1 h-2 z M11,4 h2 v1 h-2 z M9,5 h1 v1 h-1 z M13,5 h1 v1 h-1 z M4,6 h3 v1 h-3 z M8,6 h1 v1 h-1 z M10,6 h4 v1 h-4 z M4,7 h1 v1 h-1 z M6,7 h5 v1 h-5 z M12,7 h1 v1 h-1 z M3,8 h11 v1 h-11 z" />
+      <path fill="#E11D48" d="M10,1 h1 v1 h-1 z M11,2 h1 v1 h-1 z M12,3 h1 v1 h-1 z M13,4 h1 v1 h-1 z M14,5 h1 v1 h-1 z M14,6 h1 v1 h-1 z M13,7 h1 v1 h-1 z M14,8 h1 v1 h-1 z M15,9 h1 v1 h-1 z M15,10 h1 v1 h-1 z" />
+      <path fill="#3B0764" d="M9,2 h1 v1 h-1 z M5,7 h1 v1 h-1 z M11,7 h1 v1 h-1 z" />
+      <path fill="#F472B6" d="M5,5 h1 v1 h-1 z M10,5 h1 v1 h-1 z" />
+      <path fill="#FFFFFF" d="M7,5 h2 v1 h-2 z M12,5 h1 v1 h-1 z" />
+      <path fill="#DCFCE7" d="M2,9 h13 v1 h-13 z" />
+      <path fill="#15803D" d="M3,11 h11 v1 h-11 z" />
+
+      <!-- Walking Feet Frame A (#15803D) -->
+      <g class="legs-a" fill="#15803D">
+        <rect x="5" y="12" width="1" height="2" />
+        <rect x="4" y="13" width="2" height="1" />
+        <rect x="11" y="12" width="1" height="1" />
+      </g>
+
+      <!-- Walking Feet Frame B (#15803D) -->
+      <g class="legs-b" fill="#15803D">
+        <rect x="5" y="12" width="1" height="1" />
+        <rect x="11" y="12" width="1" height="2" />
+        <rect x="10" y="13" width="2" height="1" />
+      </g>
+    </g>
+  </defs>
+
+  <g class="parade">
+    <!-- Floating Pixel Text 1 -->
+    <g class="chat-1" transform="translate(6, 28)">
+      <text x="0" y="0" class="pixel-text-pink">sweet &amp; juicy~</text>
+    </g>
+
+    <!-- Floating Pixel Text 2 -->
+    <g class="chat-2" transform="translate(136, 36)">
+      <text x="0" y="0" class="pixel-text-mint">bye bye!</text>
+    </g>
+
+    <!-- Mama Watermelon Slice (3x scale) -->
+    <g transform="translate(12, 42)">
+      <g class="hop-1">
+        <use href="#pixel-watermelon" transform="scale(3)" />
+      </g>
+    </g>
+
+    <!-- Baby Watermelon Slice 1 (2x scale) -->
+    <g transform="translate(82, 56)">
+      <g class="hop-2">
+        <use href="#pixel-watermelon" transform="scale(2)" />
+      </g>
+    </g>
+
+    <!-- Baby Watermelon Slice 2 (2x scale) -->
+    <g transform="translate(126, 56)">
+      <g class="hop-3">
+        <use href="#pixel-watermelon" transform="scale(2)" />
+      </g>
+    </g>
+
+    <!-- Baby Watermelon Slice 3 (2x scale) -->
+    <g transform="translate(170, 56)">
+      <g class="hop-4">
+        <use href="#pixel-watermelon" transform="scale(2)" />
+      </g>
+    </g>
+  </g>
+</svg>
